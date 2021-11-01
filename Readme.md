@@ -6,7 +6,7 @@ Just list here, like the title, all errors and problems
 1.  ERROR : Could not install packages due to an OSError: [WinError 5] Access is denied:
 - Problem : Access is denied
 - Solution : add --user to command
-2.  ERROR : recursion is detected during loading of "cv2" binary extensions 
+2.  ERROR : recursion is detected during loading of "cv2" binary extensions
 - Problem : 
   + Multible version of cv2 are found by Python so that they call each other hence the recursion problem (problem 1)
   + cv2 was manually compiled and installed (problem 2)
