@@ -1,6 +1,3 @@
-# All-my-hinder-error-problem-encountered-when-learning-OpenCV
-Just list here, like the title, all errors and problems
-
 # ERRORS ENCOUNTERED
 
 1.  ERROR : Could not install packages due to an OSError: [WinError 5] Access is denied:
