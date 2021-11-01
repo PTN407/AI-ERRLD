@@ -13,7 +13,7 @@ Just list here, like the title, all errors and problems
 - Solution: 
   + Overall solution for problem 1: delete til only one version of cv2 is left
   + My solution: I encountered this problem when i installed both cv2 in pip and conda, deleted cv2 in appdata works, to see directory python used:
-  + 
+  
   ```python
   import cv2
   import sys
