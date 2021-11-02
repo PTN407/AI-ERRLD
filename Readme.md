@@ -23,5 +23,6 @@
 - Solution : If you're on Linux, head [here](https://stackoverflow.com/questions/28776053/opencv-gtk2-x-error-unspecified-error-the-function-is-not-implemented)
 - My solution : I encountered the error when opencv itself update to version 4.5.4-dev (or maybe i accidently updated it ?), i uninstall it and install lower-version cv2 (3.4.15 to be specific) :
 ```bash
+pip uninstall opencv-contrib-python
 pip install opencv-contrib-python==3.4.15.55
 ```
