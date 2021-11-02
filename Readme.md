@@ -21,4 +21,7 @@
   + Solution for problem 2: Uninstall the version of cv2 that you manually installed, then install it using pip
 3. ERROR : The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvNamedWindow'
 - Solution : If you're on Linux, head [here](https://stackoverflow.com/questions/28776053/opencv-gtk2-x-error-unspecified-error-the-function-is-not-implemented)
-- My solution : I encountered the error when opencv itself update to version 4.5.4-dev (or maybe i accidently updated it ?), i uninstall it and install lower-version cv2 (3.4.15 to be specific)
+- My solution : I encountered the error when opencv itself update to version 4.5.4-dev (or maybe i accidently updated it ?), i uninstall it and install lower-version cv2 (3.4.15 to be specific) :
+```bash
+pip install opencv-contrib-python==3.4.15.55
+```
