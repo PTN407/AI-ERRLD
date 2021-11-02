@@ -30,4 +30,11 @@ pip install opencv-contrib-python==3.4.15.55
 # Unexpected Behaviours
 
 1. cv2 resize show strange image
-- Problem + Solution : Don't use img.resize(h, w), use cv2.resize(img, h, w)
+- Problem + Solution : Don't use 
+```python
+img.resize(h, w)
+```
+use
+```python
+cv2.resize(img, (h, w))
+```
