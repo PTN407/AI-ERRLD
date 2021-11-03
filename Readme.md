@@ -15,7 +15,8 @@
   import cv2
   import sys
   print(cv2.__version__) # This print the version of cv2 that python is using
-  print(sys.path) # This print all paths python 
+  print(sys.path) # This print all paths python is using
+  print(cv2.__file__) # this print path to pyd file of cv2
   ```
   
   + Solution for problem 2: Uninstall the version of cv2 that you manually installed, then install it using pip
