@@ -38,7 +38,7 @@ use
 ```python
 cv2.resize(img, (h, w))
 ```
-above method may not working when you want to zoom image, use:
+when you want to zoom image, use:
 ```python
 imutils.resize(img, width=(zoomSize * img.shape[1]))
 ```
