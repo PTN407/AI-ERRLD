@@ -28,7 +28,7 @@ pip uninstall opencv-contrib-python
 pip install opencv-contrib-python==3.4.15.55
 ```
   
-# Unexpected Behaviours
+# Unwanted Behaviours
 
 1. cv2 resize show strange image
 - Problem + Solution : Don't use 
@@ -43,3 +43,13 @@ when you want to zoom image, use:
 ```python
 imutils.resize(img, width=(zoomSize * img.shape[1]))
 ```
+2. image too big to display
+```python
+import cv2
+cv2.namedWindow("output", cv2.WINDOW_NORMAL)    # Create window with freedom of dimensions, fit the window to the screen
+im = cv2.imread("earth.jpg")                    # Read image
+imS = cv2.resize(im, (960, 540))                # Resize image, IF YOU DON'T HAVE THIS LINE, the window will fit the screen, but the image isn't ( so the window will only show a part of the image)
+cv2.imshow("output", imS)                       # Show image
+cv2.waitKey(0)                                  # Display the image infinitely until any keypress
+```
+source : https://stackoverflow.com/questions/35180764/opencv-python-image-too-big-to-display
