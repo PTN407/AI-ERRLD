@@ -43,6 +43,11 @@ when you want to zoom image, use:
 ```python
 imutils.resize(img, width=(zoomSize * img.shape[1]))
 ```
+or:  
+```python  
+img = cv2.resize(img, None, fx=0.5, fy=0.5, interpolation=cv2.INTER_AREA) # shrinking  
+img = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC) # enlarging
+```  
 ### 2. image too big to display
 ```python
 import cv2
