@@ -47,6 +47,7 @@ or:
 ```python  
 img = cv2.resize(img, None, fx=0.5, fy=0.5, interpolation=cv2.INTER_AREA) # shrinking  
 img = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC) # enlarging
+# source : https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/  
 ```  
 ### 2. image too big to display
 ```python
