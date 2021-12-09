@@ -1,4 +1,4 @@
-# ERRORS ENCOUNTERED
+## ERRORS ENCOUNTERED
 
 ### 1.  ERROR : Could not install packages due to an OSError: [WinError 5] Access is denied:
 - Problem : Access is denied
@@ -28,7 +28,7 @@ pip uninstall opencv-contrib-python
 pip install opencv-contrib-python==3.4.15.55
 ```
   
-# Unwanted Behaviours
+## Unwanted Behaviours
 
 ### 1. cv2 resize show strange image
 - Problem + Solution : Don't use 
