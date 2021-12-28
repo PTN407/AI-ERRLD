@@ -6,5 +6,5 @@ Link: https://stackoverflow.com/questions/4493554/neural-network-always-produces
 ### 3.   Numpy array whose elements have different types
 Solution: 
 ```python
-np.array(data.values.tolist(), dtype = object) # add dtype = object
+np.array(data, dtype = object) # add dtype = object
 ```
