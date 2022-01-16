@@ -27,7 +27,8 @@
 pip uninstall opencv-contrib-python
 pip install opencv-contrib-python==3.4.15.55
 ```
-  
+### 4. cannot import name '_registerMatType' from 'cv2.cv2'  
+- Solution: https://stackoverflow.com/questions/70537488/cannot-import-name-registermattype-from-cv2-cv2
 ## Unwanted Behaviours
 
 ### 1. cv2 resize show strange image
