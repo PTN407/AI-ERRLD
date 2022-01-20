@@ -1,5 +1,7 @@
-## ERRORS ENCOUNTERED
+# ERRORS ENCOUNTERED
 
+## OpenCV
+  
 ### 1.  ERROR : Could not install packages due to an OSError: [WinError 5] Access is denied:
 - Problem : Access is denied
 - Solution : add --user to command
@@ -29,7 +31,21 @@ pip install opencv-contrib-python==3.4.15.55
 ```
 ### 4. cannot import name '_registerMatType' from 'cv2.cv2'  
 - Solution: https://stackoverflow.com/questions/70537488/cannot-import-name-registermattype-from-cv2-cv2
-## Unwanted Behaviours
+
+
+## Python & ML
+### 1.   Busy server in Colab  
+Problem: Your program is running, perhaps infinity loops ?  
+Solution: Runtime -> Restart Runtime
+### 2.   Neural Network Always Produces Same/Similar Outputs for Any Input
+Link: https://stackoverflow.com/questions/4493554/neural-network-always-produces-same-similar-outputs-for-any-input
+### 3.   Numpy array whose elements have different types
+Solution: 
+```python
+np.array(data, dtype = object) # add dtype = object
+```
+
+# Unwanted Behaviours
 
 ### 1. cv2 resize show strange image
 - Problem + Solution : Don't use 
