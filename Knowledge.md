@@ -1,12 +1,21 @@
-### Useful links
-#### 1.   Image preprocessing  
-+  https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/  
-#### 2.   Data
-+  https://storage.googleapis.com/openimages/web/index.html (Bonus: How to get this data on colab: https://colab.research.google.com/github/voxel51/fiftyone/blob/v0.14.3/docs/source/tutorials/open_images.ipynb#scrollTo=SCLf0GqBDsAJ)
-+  https://www.image-net.org/
+# Table of contents
+1. [Useful links](#1)
+    1. [Image preprocessing](#1.1)
+    2. [Data](#1.2)
+2. [Tại sao trong CNN, số filter lại tăng dần qua từng Convolution layer?](#2)
 
 ----------------------------------------------------------------------------------
-### Tại sao trong CNN, số filter lại tăng dần qua từng Convolution layer?
+
+----------------------------------------------------------------------------------
+### Useful links <a name="1"></a>
+#### 1.   Image preprocessing <a name="1.1"></a>
++  https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/  
+#### 2.   Data <a name="1.2"></a>
++  https://storage.googleapis.com/openimages/web/index.html (Bonus: How to get this data on colab: https://colab.research.google.com/github/voxel51/fiftyone/blob/v0.14.3/docs/source/tutorials/open_images.ipynb#scrollTo=SCLf0GqBDsAJ)
++  https://www.image-net.org/
+&nbsp;  
+----------------------------------------------------------------------------------
+### Tại sao trong CNN, số filter lại tăng dần qua từng Convolution layer? <a name="2"></a>
 
 Kiến thức cần tìm hiểu trước (hoặc sau) khi đọc: phép tính convolution.
   
@@ -17,4 +26,6 @@ Mỗi lớp filter có tác dụng lọc những thông tin có ích từ dữ l
   
 Chú ý: Chỉ có số filter là tăng, kích thước filter sẽ không đổi (thường thấy là 3x3)
   
-Nguồn: https://datascience.stackexchange.com/questions/55545/in-cnn-why-do-we-increase-the-number-of-filters-in-deeper-convolution-layers-fo
+Nguồn: https://datascience.stackexchange.com/questions/55545/in-cnn-why-do-we-increase-the-number-of-filters-in-deeper-convolution-layers-fo  
+&nbsp;  
+----------------------------------------------------------------------------------
