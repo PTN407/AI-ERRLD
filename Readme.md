@@ -6,3 +6,4 @@
 5. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
 6. [Làm việc với ảnh png có nền trong suốt trong cv2](/src/md/6.md)
 7. [Imputer - một cách xử lí khi dữ liệu có những ô bị trống](/src/md/7.md)
+8. [GlobalAveragePooling2D vs Flatten](/src/md/8.md)
