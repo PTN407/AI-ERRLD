@@ -8,3 +8,5 @@
 7. [Imputer - một cách xử lí khi dữ liệu có những ô bị trống](/src/md/7.md)
 8. [GlobalAveragePooling2D vs Flatten](/src/md/8.md)
 9. [Một thư viện cho bài toán classification trong deep learning](https://github.com/qubvel/classification_models)
+10. [Deep Learning tutorial](https://d2l.ai/)
+11. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
