@@ -17,5 +17,5 @@
 #### Thư viện/Libraries
 1. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
 2. [Một thư viện cho bài toán classification trong deep learning](https://github.com/qubvel/classification_models)
-3. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
-4. [ConvNext bằng python keras](/src/md/convnext_python_keras.md)
+3. [ConvNext bằng Python Keras (Bổ sung cho mục 2 vì thư viện ở mục 2 không có convnext)](https://github.com/sayakpaul/ConvNeXt-TF/blob/main/notebooks/classification.ipynbd)
+4. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
