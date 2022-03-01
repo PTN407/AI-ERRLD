@@ -18,3 +18,4 @@
 1. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
 2. [Một thư viện cho bài toán classification trong deep learning](https://github.com/qubvel/classification_models)
 3. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
+4. [ConvNext bằng python keras](/src/md/convnext_python_keras.md)
