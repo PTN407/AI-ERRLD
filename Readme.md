@@ -13,7 +13,8 @@
 3. [Deep Learning tutorial](https://d2l.ai/)
 4. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
 5. [Imputer - một cách xử lí khi dữ liệu có những ô bị trống](/src/md/7.md)
-  
+6. [Cách huấn luyện model với những ảnh không phải dạng RGB mà không làm hỏng pretrained weights](/src/tutorial_6.md)
+
 #### Thư viện/Libraries
 1. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
 2. [Một thư viện cho bài toán classification trong deep learning](https://github.com/qubvel/classification_models)
