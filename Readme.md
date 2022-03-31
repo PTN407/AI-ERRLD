@@ -21,3 +21,4 @@
 3. [ConvNext bằng Python Keras (Bổ sung cho mục 2 vì thư viện ở mục 2 không có convnext)](https://github.com/sayakpaul/ConvNeXt-TF/blob/main/notebooks/classification.ipynb)
 4. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
 5. [Fuzzy string matching](https://github.com/seatgeek/thefuzz)
+6. [Poly Fuzz, FuzzyWuzzy but better](https://pypi.org/project/polyfuzz)
