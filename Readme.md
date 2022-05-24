@@ -23,9 +23,10 @@
 5. [Fuzzy string matching](https://github.com/seatgeek/thefuzz)
 6. [Poly Fuzz - FuzzyWuzzy but better](https://pypi.org/project/polyfuzz)
 7. [A library for hidden semi-Markov models with explicit durations](https://github.com/jvkersch/hsmmlearn)
-8. [Thư viện cho bài toán Text Detection & Text Regconition](https://keras-ocr.readthedocs.io/)
-9. [Kernel Regression](https://github.com/jmetzen/kernel_regression/blob/master/kernel_regression.py)
-
+8. [Thư viện cho bài toán Text Detection & Text Regconition](https://keras-ocr.readthedocs.io/)  
+9. [Kernel Regression](https://github.com/jmetzen/kernel_regression/blob/master/kernel_regression.py)  
+10. [Hsmmlearn - Hidden semi-Markov Model Toying](/src/ipynb/hsmmlearn.ipynb)  
+  
 #### Khác/Others
 1. [Get all links in a website](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
 2. [Từ điển tiếng Anh](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
