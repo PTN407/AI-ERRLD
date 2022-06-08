@@ -32,4 +32,4 @@
 2. [Từ điển tiếng Anh](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
   
 #### Small projects that helps (?)  
-1. [Tách chữ từ link PDF từ Drive (PDF không cho phép tải)](/src/md/text_pdf.md)
+1. [Tách chữ từ link PDF chỉ xem từ Drive](/src/md/text_pdf.md)
