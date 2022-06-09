@@ -34,5 +34,3 @@
 #### Small projects that helps (?)  
 1. [Tách chữ từ link PDF chỉ xem từ Drive](/src/md/text_pdf.md)
 
-#### Books source  
-1. https://livebook.manning.com/
