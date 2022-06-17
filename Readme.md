@@ -15,7 +15,7 @@
 5. [Imputer - một cách xử lí khi dữ liệu có những ô bị trống](/src/md/7.md)
 6. [Cách huấn luyện model với những ảnh không phải dạng RGB mà không làm hỏng pretrained weights](/src/md/tutorial_6.md)
 
-#### Thư viện/Libraries
+#### Thư viện, công cụ/Libraries, tool
 1. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
 2. [Một thư viện cho bài toán classification trong deep learning](https://github.com/qubvel/classification_models)
 3. [ConvNext bằng Python Keras (Bổ sung cho mục 2 vì thư viện ở mục 2 không có convnext)](https://github.com/sayakpaul/ConvNeXt-TF/blob/main/notebooks/classification.ipynb)
@@ -26,9 +26,10 @@
 8. [Thư viện cho bài toán Text Detection & Text Regconition](https://keras-ocr.readthedocs.io/)  
 9. [Kernel Regression](https://github.com/jmetzen/kernel_regression/blob/master/kernel_regression.py)  
 10. [Hsmmlearn - Hidden semi-Markov Model Toying](/src/ipynb/hsmmlearn.ipynb)  
-  
+11. [Colab notebook  -> web](https://anvil.works/learn/tutorials/google-colab-to-web-app)  
+
 #### Khác/Others
-1. [Get all links in a website](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
+1. [Lấy tất cả website con](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
 2. [Từ điển tiếng Anh](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
   
 #### Small projects that helps (?)  
