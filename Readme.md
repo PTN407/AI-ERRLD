@@ -26,7 +26,7 @@
 8. [Thư viện cho bài toán Text Detection & Text Regconition](https://keras-ocr.readthedocs.io/)  
 9. [Kernel Regression](https://github.com/jmetzen/kernel_regression/blob/master/kernel_regression.py)  
 10. [Hsmmlearn - Hidden semi-Markov Model Toying](/src/ipynb/hsmmlearn.ipynb)  
-11. [Colab notebook  -> web](https://anvil.works/learn/tutorials/google-colab-to-web-app)  
+11. [Colab notebook  -> web app](https://anvil.works/learn/tutorials/google-colab-to-web-app)  
 
 #### Khác/Others
 1. [Lấy tất cả website con](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
