@@ -27,6 +27,7 @@
 9. [Kernel Regression](https://github.com/jmetzen/kernel_regression/blob/master/kernel_regression.py)  
 10. [Hsmmlearn - Hidden semi-Markov Model Toying](/src/ipynb/hsmmlearn.ipynb)  
 11. [Colab notebook  -> web app](https://anvil.works/learn/tutorials/google-colab-to-web-app)  
+12. [A library involved time series analysis](https://tslearn.readthedocs.io/en/stable/)  
 
 #### Khác/Others
 1. [Lấy tất cả website con](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
