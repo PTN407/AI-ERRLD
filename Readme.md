@@ -28,7 +28,8 @@
 10. [Hsmmlearn - Hidden semi-Markov Model Toying](/src/ipynb/hsmmlearn.ipynb)  
 11. [Colab notebook  -> web app](https://anvil.works/learn/tutorials/google-colab-to-web-app)  
 12. [A library involved time series analysis](https://tslearn.readthedocs.io/en/stable/)  
-
+13. [Gradient Boosted Neural Network](https://github.com/GAA-UAM/GBNN)  
+  
 #### Khác/Others
 1. [Lấy tất cả website con](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
 2. [Từ điển tiếng Anh](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
