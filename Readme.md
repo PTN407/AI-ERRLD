@@ -34,6 +34,7 @@
 #### Khác/Others
 1. [Lấy tất cả website con](https://linkchecker.github.io/linkchecker/man/linkchecker.html)
 2. [Từ điển tiếng Anh](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+3. [Mẫu báo cáo Latex](/src/template.tex)  
   
 #### Small projects that helps (?)  
 1. [Tách chữ từ link PDF chỉ xem từ Drive](/src/md/text_pdf.md)
