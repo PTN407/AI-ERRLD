@@ -1,0 +1,69 @@
+\documentclass[a4paper,twoside]{article}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage[T5]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+\usepackage[open]{bookmark}
+\usepackage{enumitem}
+\renewcommand{\baselinestretch}{1.5}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\normalsize\bfseries}
+\titleformat*{\paragraph}{\small}
+
+\usepackage{amsmath}
+\newcommand{\Mod}[1]{\ \mathrm{mod}\ #1}
+
+\usepackage{listings}
+\usepackage{color} % tô màu cho code
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+\begin{document}
+    % ------------------------ COVER PAGE --------------------------
+    \thispagestyle{empty}
+    \begin{center}
+        \LARGE
+        \textbf{Báo cáo Bài tập 1 - Tìm hiểu Decision Tree}
+        
+        \large    
+        \vspace{0.4cm}
+        \textbf{Người thực hiện: Phan Trọng Nhân\\}
+        \textbf{MSSV: 21522407\\}
+        \textbf{Lớp: CS115.N11.KHTN\\}
+    \end{center}
+    % ---------------------- TABLE OF CONTENT ----------------------
+    \newpage
+    \tableofcontents
+    % ---------------------- SECTION 1 : ... -----------------------
+    \newpage
+    \pagenumbering{arabic}
+    \section{Giới thiệu}
+    \subsection{Giới thiệu 1}
+    % ---------------------- SECTION 2 : ... -----------------------
+    \newpage
+    \section{Nội dung}
+\end{document}
