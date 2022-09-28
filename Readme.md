@@ -38,4 +38,6 @@
   
 #### Small projects that helps (?)  
 1. [Tách chữ từ link PDF chỉ xem từ Drive](/src/md/text_pdf.md)
-
+  
+#### Linux
+1. [Cài bộ gõ tiếng Việt cho Linux](https://vinasupport.com/bo-go-tieng-viet-ibus-bamboo-tren-ubuntu-20-04-lts/)
