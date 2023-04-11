@@ -14,6 +14,7 @@
 4. [Vision Transformer](https://github.com/xxxnell/how-do-vits-work)
 5. [Imputer - một cách xử lí khi dữ liệu có những ô bị trống](/src/md/7.md)
 6. [Cách huấn luyện model với những ảnh không phải dạng RGB mà không làm hỏng pretrained weights](/src/md/tutorial_6.md)
+7. [Stanford Digital Image Processing](https://web.stanford.edu/class/ee368/)
 
 #### Thư viện, công cụ/Libraries, tool
 1. [Một thư viện cho bài toán segmentation trong deep learning](/src/md/5.md)
